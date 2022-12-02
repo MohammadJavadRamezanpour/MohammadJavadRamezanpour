@@ -1,7 +1,7 @@
 # Mohammad Javad
 hello friend. <br>
 I am a machine learning and security enthusiast from Iran. <br>
-seeking to develope a safe intelligence in the world ;)
+seeking to develope a safe intelligence in the world ;) <br>
 you got it. right?
 
 
