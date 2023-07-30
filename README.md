@@ -2,7 +2,7 @@
 Hello friend. <br>
 I am a machine learning & Robotics enthusiast from Iran. <br>
 I am also a backend (django) developer <br>
-And share my repositories at github, and any contribution is welcomed <br>
+Any contribution to the repositories I share here is welcomed <br>
 Here are some other accounts that I have: <br>
 
 <a href="https://www.kaggle.com/m0hammadjavad"><img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" width="50"></a>
