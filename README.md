@@ -1,9 +1,11 @@
 # Mohammad Javad
-hello friend. <br>
-I am a machine learning and security enthusiast from Iran. <br>
-seeking to develop a safe intelligence in the world ;) <br>
-you got it. right?
+Hello friend. <br>
+I am a machine learning & Robotics enthusiast from Iran. <br>
+I am also a backend (django) developer <br>
+And share my repositories at github, and any contribution is welcomed <br>
+Here are some other accounts that I have: <br>
 
+<a href="https://www.kaggle.com/m0hammadjavad"><img src="https://storage.scolary.com/storage/file/public/71b68248-ba0a-4b26-b15f-0c77cdf341cd.svg" width="50"></a>
 
 <a href="https://www.youtube.com/channel/UCBCb5qHExne9_pYHEnhzJyQ"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/YouTube_social_white_squircle.svg/2048px-YouTube_social_white_squircle.svg.png" width="50"></a>
 
