@@ -1,6 +1,6 @@
 # Mohammad Javad
 Hello friend. <br>
-I am a machine learning & Robotics enthusiast from Iran. <br>
+I am a machine learning enthusiast from Iran. <br>
 I am also a backend (django) developer <br>
 All contributions to the repositories I share here are welcome.<br>
 Here are some other accounts that I have: <br>
