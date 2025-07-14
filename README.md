@@ -1,4 +1,4 @@
-# 👁️‍🗨️ Hi, I'm Mohammad Javad!
+# ‌‌👋 Hi, I'm Mohammad Javad!
 
 I'm a **Computer Vision Engineer** and **Python Developer** with a strong focus on building intelligent systems that understand and interpret the visual world. My core expertise lies in **deep learning**, **image processing**, and deploying CV-powered applications using **Python** and **Django**.
 
