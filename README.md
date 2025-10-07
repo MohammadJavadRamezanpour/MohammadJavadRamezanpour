@@ -1,25 +1,26 @@
-# ‌‌👋 Hi, I'm Mohammad Javad!
+# 👋 Hi, I'm Mohammad Javad!
 
-I'm a **Computer Vision Engineer** and **Python Developer** with a strong focus on building intelligent systems that understand and interpret the visual world. My core expertise lies in **deep learning**, **image processing**, and deploying CV-powered applications using **Python** and **Django**.
+I'm a **Software Engineer** specializing in **Machine Learning** and **Computer Vision**.  
+I build intelligent, data-driven systems that understand and interpret the visual world — combining strong software engineering practices with cutting-edge AI research.
 
-I enjoy crafting scalable backend systems, creating APIs that serve AI models, and transforming raw data into actionable visual insights.
+My work bridges **deep learning** and **backend development**, crafting scalable solutions that bring ML models from prototype to production using **Python**, **Django**, and modern DevOps tools.
 
 ---
 
 ### 🧠 Areas of Expertise
-- **Computer Vision:** object detection, image classification, image segmentation, OCR, visual search  
+- **Machine Learning & Computer Vision:** object detection, image segmentation, OCR, visual search  
 - **Deep Learning Frameworks:** PyTorch, TensorFlow, OpenCV, scikit-image  
-- **Python Web Development:** Django, Django REST Framework, Flask  
+- **Backend Development:** Django, Django REST Framework, Flask  
 - **Data & ML Tools:** NumPy, pandas, scikit-learn, matplotlib  
-- **Dev & Infrastructure:** Git, Docker, PostgreSQL, Redis, Celery, Elasticsearch  
+- **DevOps & Infrastructure:** Git, Docker, PostgreSQL, Redis, Celery, Elasticsearch  
 
 ---
 
 ### 🚀 What I'm Working On
-- End-to-end CV pipelines with real-time inference  
-- Building REST APIs to serve ML models with Django  
-- Model optimization and deployment for production  
-- YouTube tutorials on Python & AI development workflows  
+- End-to-end ML pipelines with real-time CV inference  
+- Scalable REST APIs for serving AI models in production  
+- Model optimization, deployment, and monitoring  
+- Creating YouTube tutorials on Python, AI, and software engineering best practices  
 
 ---
 
